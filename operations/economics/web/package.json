@@ -21,7 +21,7 @@
     "@pollinations/ui": "*",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
-    "hono": "^4.10.6"
+    "hono": "^4.13.10"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^5.20260715.1",
